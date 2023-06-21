@@ -1,4 +1,4 @@
-# GitHub Follower Analyzer
+# GitHub Follower Tracker
 
 GitHub Follower Analyzer is a Python program that allows you to analyze your GitHub followers and identify users who are not following you back. It utilizes the GitHub API to retrieve follower and following data.
 
@@ -17,14 +17,14 @@ Before running the program, make sure you have the following installed:
    ```
 3. Run the program using the following command:
    ```
-   python github_follower_analyzer.py
+   python tracker.py
    ```
 
 ## Usage
 
 1. Enter your GitHub username in the provided text field.
 2. Click the "Find Users" button to initiate the search.
-3. The program will retrieve your followers and following data from GitHub.
+3. The program will retrieve your followers and the following data from GitHub.
 4. The results will be displayed in the text box, showing the users who are not following you back.
 
 ## Dependencies
