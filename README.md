@@ -1,6 +1,12 @@
 # GitHub Follower Tracker
 
-GitHub Follower Analyzer is a Python program that allows you to analyze your GitHub followers and identify users who are not following you back. It utilizes the GitHub API to retrieve follower and following data.
+The GitHub Follower Tracker is a Python tool designed to help you gain insights into your GitHub community. By leveraging the power of the GitHub API, this program enables you to analyze your followers and determine which users are not reciprocating your follow.
+
+With just a few simple steps, you can input your GitHub username and initiate the analysis. The program will retrieve your followers and following data, comparing the two to identify users who are not following you back. This information can be valuable for understanding your network and making informed decisions about your GitHub interactions.
+
+By providing a clear and intuitive user interface, the GitHub Follower Analyzer makes it easy to navigate through the results. The program displays the list of users who are not following you back, giving you a comprehensive overview of your GitHub relationships.
+
+Whether you want to build stronger connections, reassess your interactions, or simply gain a better understanding of your GitHub presence, the GitHub Follower Analyzer is a valuable tool for anyone looking to optimize their GitHub experience.
 
 ## Prerequisites
 
